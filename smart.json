@@ -1,0 +1,9 @@
+{
+  "name": "bxslider",
+  "description": "bxslider 4 packaged for meteor",
+  "homepage": "https://github.com/lobosque/meteor-bxlider",
+  "author": "Lucas Lobosque (http://lucaslobosque.com)",
+  "version": "0.1",
+  "git": "https://github.com/lobosque/meteor-bxslider.git",
+  "packages": { }
+}
