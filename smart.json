@@ -3,7 +3,7 @@
   "description": "bxslider 4 packaged for meteor",
   "homepage": "https://github.com/Lobosque/meteor-bxslider",
   "author": "Lucas Lobosque (http://lucaslobosque.com)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "git": "https://github.com/Lobosque/meteor-bxslider.git",
   "packages": { }
 }
